@@ -42,3 +42,8 @@ Testing **Bold**: **This is a Bold Markup**
 Testing _Italic_: _This is an Italic Markup_
 Testing `Code`: `System.out.println("Hello World!");`
 
+# rishyraj's first CS193 Lab
+1. Easy Class
+2. Fun Instructors
+3. I don't know what else to say
+
